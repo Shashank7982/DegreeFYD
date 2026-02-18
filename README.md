@@ -119,10 +119,33 @@ DegreeFYD is designed for modern cloud-native deployment with a structured pipel
 2. **Integation Phase**:
    - Continuous Integration (CI) triggers on every pull request to `main`.
    - Automated checks for dependency vulnerabilities.
-3. **Deployment Phase**:
-   - **Frontend**: Best deployed on **Vercel** or **Netlify** for Edge-level performance and automatic SSL.
-   - **Backend**: Containerized via **Docker** and deployed on **Render**, **Railway**, or **AWS ECS**.
-   - **Database**: **MongoDB Atlas** for globally distributed institutional data.
+### 🚀 Vercel Deployment (Step-by-Step)
+
+To deploy this project to Vercel, you should set up **two separate Vercel projects** (one for the Backend and one for the Frontend) from the same repository.
+
+#### 1. Deploy the Backend (API)
+1. Go to your [Vercel Dashboard](https://vercel.com/new).
+2. Import the `DegreeFYD` repository.
+3. In the **Project Settings**:
+   - **Project Name**: `degreefyd-backend`
+   - **Root Directory**: Select `backend`.
+   - **Framework Preset**: `Other`.
+4. **Environment Variables**:
+   - Add `MONGO_URI` (your MongoDB connection string).
+   - Add `JWT_SECRET` (your JWT secret key).
+5. **Click Deploy**. 
+6. Copy the **Production URL** provided by Vercel.
+
+#### 2. Deploy the Frontend (UI)
+1. Go to [Vercel](https://vercel.com/new) again.
+2. Import the same `DegreeFYD` repository.
+3. In the **Project Settings**:
+   - **Project Name**: `degreefyd-frontend`
+   - **Root Directory**: Select `Frontend`.
+   - **Framework Preset**: `Next.js`.
+4. **Environment Variables**:
+   - Add `NEXT_PUBLIC_API_URL` = `https://your-backend-url.vercel.app/api` (Use the URL from Step 1).
+5. **Click Deploy**.
 
 ---
 
