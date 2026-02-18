@@ -1,0 +1,14 @@
+--- College Slug Check ---
+Found "Indian Institute of Technology Bombay": indian-institute-of-technology-bombay-1773
+Not found: "Birla Institute of Technology and Science, Pilani"
+  Similar colleges for "Birla Institute":
+    - Birla Institute of Management Technology: birla-institute-of-management-technology-498
+    - Birla Institute of Management Technology: birla-institute-of-management-technology-499
+    - Birla Institute of Technology: birla-institute-of-technology-500
+Not found: "National Institute of Design"
+  Similar colleges for "National Institute":
+    - Dr. B R Ambedkar National Institute of Technology: dr-b-r-ambedkar-national-institute-of-technology-857
+    - International Institute Of Health Management Research: international-institute-of-health-management-research-1872
+    - International Institute of Business Studies: international-institute-of-business-studies-1873
+Found "Delhi Technological University": delhi-technological-university-788
+Found "Vellore Institute of Technology": vellore-institute-of-technology-4314

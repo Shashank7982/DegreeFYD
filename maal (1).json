@@ -1,0 +1,1188 @@
+{
+  "status": true,
+  "data": [
+    {
+      "_id": "67e3e6e1d45f50f1b383e08e",
+      "collegeName": "Lovely Professional University Online ",
+      "collegeLocation": "Phagwara, Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/7190/lovely_professional_university_online_course_logo.webp",
+      "slug": "lovely-professional-university-online"
+    },
+    {
+      "_id": "67e3ffac3a31c56ff8e0210e",
+      "collegeName": "Amrita University Online",
+      "collegeLocation": "Coimbatore, Tamil Nadu",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8912/amrita_university_online_logo.webp",
+      "slug": "amrita-university-online"
+    },
+    {
+      "_id": "67e407692622cb228deb4a3e",
+      "collegeName": "NMIMS Online Courses & Admissions 2026",
+      "collegeLocation": "Mumbai, Maharashtra",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8569/nmims_online_courses_and_admissions_2025_logo.webp",
+      "slug": "nmims-online"
+    },
+    {
+      "_id": "67e5184075c2927b4ea45305",
+      "collegeName": "Sastra University Online",
+      "collegeLocation": "Thanjavur, Tamil Nadu",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/3089/_sastra_university_online_logo.webp",
+      "slug": "sastra-university-online"
+    },
+    {
+      "_id": "67e3ecdf0e48cf1d545238b7",
+      "collegeName": "Chandigarh University Online",
+      "collegeLocation": "Mohali, Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9842/chandigarh_university_online_courses_and_admission_2025_logo.webp",
+      "slug": "chandigarh-university-online"
+    },
+    {
+      "_id": "67e3cf3f66e2ecfc7b22ac6c",
+      "collegeName": "Sharda University Online Education Programs 2025",
+      "collegeLocation": "Greater Noida, Uttar Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9954/sharda_university_online_education_programs_2025_logo.webp",
+      "slug": "sharda-university-online"
+    },
+    {
+      "_id": "67e3996dbc31e632446ece46",
+      "collegeName": "Jain University Online Courses",
+      "collegeLocation": "Bengaluru, Karnataka",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/6656/jain_university_online_courses_logo.webp",
+      "slug": "jain-university-online"
+    },
+    {
+      "_id": "67e4dbf3b9904e75b2afd39b",
+      "collegeName": "DY Patil University Online",
+      "collegeLocation": "Pune",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/7637/dy_patil_university_online_courses_and_admission_2025_logo.webp",
+      "slug": "dy-patil-university-online"
+    },
+    {
+      "_id": "67e520b1bd4d943fc351d6fe",
+      "collegeName": "GLA University Online Courses & Admission 2025",
+      "collegeLocation": "Bharthia, Uttar Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/3334/gla_university_online_courses_and_admission_2025_logo.webp",
+      "slug": "gla-university-online"
+    },
+    {
+      "_id": "67dc588ec378a2f4d9e73f21",
+      "collegeName": "Uttaranchal University Online Courses & Admission 2025",
+      "collegeLocation": "Dehradun",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/2974/uttaranchal_university_online_courses_and_admission_2025_logo.webp",
+      "slug": "uttaranchal-university-online"
+    },
+    {
+      "_id": "67e3deacbb9a5405375f5e45",
+      "collegeName": "Sikkim Manipal University Online Courses & Admission 2026",
+      "collegeLocation": "Gangtok, Sikkim",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/2126/sikkim_manipal_university_online_courses_and_admission_2025_logo.webp",
+      "slug": "sikkim-manipal-university-online"
+    },
+    {
+      "_id": "67e3d5f466e2ecfc7b22b574",
+      "collegeName": "Manipal University Online",
+      "collegeLocation": "Jaipur, Rajasthan",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/1142/manipal_university_online_logo.webp",
+      "slug": "manipal-university-online"
+    },
+    {
+      "_id": "67e3f0db0e48cf1d545239ae",
+      "collegeName": "Vivekananda Global University Online",
+      "collegeLocation": "Jaipur, Rajasthan",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/4951/vivekananda_global_university_online_logo.webp",
+      "slug": "vivekanand-global-university-online"
+    },
+    {
+      "_id": "67e506b1f1492a314476c97d",
+      "collegeName": "Parul University Online Courses & Admission 2025",
+      "collegeLocation": "Waghodia, Gujarat ",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/2219/parul_university_online_courses_and_admission_2025_logo.webp",
+      "slug": "parul-university-online"
+    },
+    {
+      "_id": "67e63ebb2719fe0faf8004b7",
+      "collegeName": "Mody University Online 2025 –UG & PG Courses for Women",
+      "collegeLocation": "Jaipur, Rajasthan",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8781/mody_university_online_2025_-ug_and_pg_courses_for_women__logo.webp",
+      "slug": "mody-university-online"
+    },
+    {
+      "_id": "67e4fa2d5184a499f94fd90e",
+      "collegeName": "UPES Online",
+      "collegeLocation": "Dehradun, Uttarakhand  ",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/3364/upes_online_logo.webp",
+      "slug": "upes-online"
+    },
+    {
+      "_id": "67e4e404be5463608d005eeb",
+      "collegeName": "Chitkara University Online Courses 2025",
+      "collegeLocation": "Chandigarh , Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/5290/chitkara_university_online_courses_2025_logo.webp",
+      "slug": "chitkara-university-online"
+    },
+    {
+      "_id": "67e53a51d16a1c48784c5882",
+      "collegeName": "K J Somaiya Institute of Management Online",
+      "collegeLocation": "Vidyavihar, Mumbai",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/1902/k_j_somaiya_institute_of_management_online__logo.webp",
+      "slug": "k-j-somaiya-institute-of-management-online"
+    },
+    {
+      "_id": "67e54cb1af339e63d376ec04",
+      "collegeName": "SPJIMR Online",
+      "collegeLocation": "Delhi",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/6262/spjimr_online_logo.webp",
+      "slug": "spjimr-online"
+    },
+    {
+      "_id": "67e52901b574e4208249f8e6",
+      "collegeName": "Vignan University Online",
+      "collegeLocation": "Guntur- Andhra Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/1616/vignan_university_online_logo.webp",
+      "slug": "vignan-university-online"
+    },
+    {
+      "_id": "67e62bec45e104b43dfce04c",
+      "collegeName": "Manav Rachna University Online",
+      "collegeLocation": "Faridabad, Haryana ",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/2700/manav_rachna_university_online__logo.webp",
+      "slug": "manav-rachna-university-online"
+    },
+    {
+      "_id": "67e4ec6ab9c815c3ed8e21ed",
+      "collegeName": "Kurukshetra University Online",
+      "collegeLocation": "Thanesar, Haryana",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/5477/kurukshetra_university_online__logo.webp",
+      "slug": "kurukshetra-university-online"
+    },
+    {
+      "_id": "67e5334f2e75bb58d60bfda5",
+      "collegeName": "SRM University Online",
+      "collegeLocation": "Chennai, Tamil Nadu",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8284/srm_university_online_logo.webp",
+      "slug": "srm-university-online"
+    },
+    {
+      "_id": "67e5538f4920aa2c39cafd0d",
+      "collegeName": "IIM Nagpur",
+      "collegeLocation": "Nagpur, Maharashtra",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9086/iim_nagpur_logo.webp",
+      "slug": "iim-nagpur"
+    },
+    {
+      "_id": "67e6eb6de1155375afe770c5",
+      "collegeName": "Jamia Millia Islamia Online",
+      "collegeLocation": "New Delhi",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/1840/_jamia_millia_islamia_online_logo.webp",
+      "slug": "jamia-millia-islamia-online"
+    },
+    {
+      "_id": "67e6a5813c66ce12e4654863",
+      "collegeName": "IIM Rohtak",
+      "collegeLocation": "Rohtak, Haryan",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/6529/iim_rohtak_logo.webp",
+      "slug": "iim-rohtak"
+    },
+    {
+      "_id": "67e679ea1e533b49abdca270",
+      "collegeName": "IIM Indore",
+      "collegeLocation": "Indore, Madhya Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8954/iim_indore_logo.webp",
+      "slug": "iim-indore"
+    },
+    {
+      "_id": "67e65e866ce4964fe4608930",
+      "collegeName": "Symboisis Online",
+      "collegeLocation": "Pune, Maharashtra",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/3705/symboisis_online_logo.webp",
+      "slug": "symboisis-online"
+    },
+    {
+      "_id": "67e6b4b8d7494e20ae49f16c",
+      "collegeName": "IIM Ahmedabad",
+      "collegeLocation": "Ahmedabad, Gujarat",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9167/iim_ahmedabad_logo.webp",
+      "slug": "iim-ahmedabad"
+    },
+    {
+      "_id": "67e6c02e6c1838f3732e9529",
+      "collegeName": "IIM Raipur",
+      "collegeLocation": "Raipur, Chhattisgarh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/3565/iim_raipur_logo.webp",
+      "slug": "iim-raipur"
+    },
+    {
+      "_id": "67e78c813c0f5118ce445333",
+      "collegeName": "Jamia Hamdard University Online",
+      "collegeLocation": "Hamdard Nagar, New Delhi, Delhi",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8057/jamia_hamdard_university_online_logo.webp",
+      "slug": "jamia-hamdard-university-online"
+    },
+    {
+      "_id": "67e77dd794bdc6820eb8ba7c",
+      "collegeName": "Periyar University Online",
+      "collegeLocation": "Salem, Tamil Nadu",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8908/periyar_university_online_logo.webp",
+      "slug": "periyar-university-online"
+    },
+    {
+      "_id": "67eb773f4d2131a38588b38c",
+      "collegeName": "Lovely Professional University Distance Education",
+      "collegeLocation": " Phagwara, Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/4293/lovely_professional_university_distance_education_logo.webp",
+      "slug": "lpu-distance-education"
+    },
+    {
+      "_id": "67e792a11488844b16774a01",
+      "collegeName": "Deakin University Online Courses",
+      "collegeLocation": "New Delhi, Delhi ",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/3579/_deakin_university_online_courses_logo.webp",
+      "slug": "deakin-university-online"
+    },
+    {
+      "_id": "67e69f07c2f1a3eb320cb5e7",
+      "collegeName": "O.P. Jindal Global University",
+      "collegeLocation": "Sonipat, Haryana",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8420/o_p_jindal_global_university_logo.webp",
+      "slug": "o-p-jindal-global-university"
+    },
+    {
+      "_id": "67e667646348a5c87ecef184",
+      "collegeName": "JECRC University Online",
+      "collegeLocation": "Jaipur, Rajasthan",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/2962/jecrc_university_online_logo.webp",
+      "slug": "jecrc-university-online"
+    },
+    {
+      "_id": "67e65582639fb5437bead22c",
+      "collegeName": "University of Mysore Online | Karnataka State Open University Mysore",
+      "collegeLocation": "Mysore, Karnataka ",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8717/university_of_mysore_online___karnataka_state_open_university_mysore_logo.webp",
+      "slug": "university-of-mysore-online"
+    },
+    {
+      "_id": "67e6f34f0e552cc5594c87b8",
+      "collegeName": "Bharathidasan University Online Courses 2025",
+      "collegeLocation": "Tiruchirappalli, Tamil Nadu",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/7802/bharathidasan_university_online_courses_2025_logo.webp",
+      "slug": "bharathidasan-university-online"
+    },
+    {
+      "_id": "67e64b3f639fb5437beac42d",
+      "collegeName": "Shobhit University Online",
+      "collegeLocation": "Gangoh, Saharanpur, Uttar Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/5204/shobhit_university_online__logo.webp",
+      "slug": "shobhit-university-online"
+    },
+    {
+      "_id": "67e544961ee2ab4da28cedd7",
+      "collegeName": "Shoolini University Online",
+      "collegeLocation": "Bajhol, Himachal Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9227/shoolini_university_online_logo.webp",
+      "slug": "shoolini-university-online"
+    },
+    {
+      "_id": "67e6338796c665e44d42b182",
+      "collegeName": "Yenepoya University Online",
+      "collegeLocation": "Mangalore, Karnataka",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9476/yenepoya_university_online_logo.webp",
+      "slug": "yenepoya-university-online"
+    },
+    {
+      "_id": "67e6770e1e533b49abdc957d",
+      "collegeName": "Dayananda Sagar University (DSU) Online",
+      "collegeLocation": "Bangalore, Karnataka",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/2973/dayananda_sagar_university__dsu__online_logo.webp",
+      "slug": "dayananda-sagar-university-dsu-online"
+    },
+    {
+      "_id": "67e687b120f5e45584bf2c11",
+      "collegeName": "IIIT Bangalore Distance Education",
+      "collegeLocation": "Bangalore",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/1154/iiit_bangalore_distance_education_logo.webp",
+      "slug": "iiit-bangalore"
+    },
+    {
+      "_id": "67e6ad34a3f1c898827e97ec",
+      "collegeName": "IIM Tirchy Distance Education",
+      "collegeLocation": "Tiruchirappalli, Tamil Nadu",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/7754/iim_tirchy_distance_education_logo.webp",
+      "slug": "iim-tiruchirappalli"
+    },
+    {
+      "_id": "67e6925eb506430715b8bc3b",
+      "collegeName": "IIM Kozhikode",
+      "collegeLocation": "Kozhikode, Kerala",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/7437/iim_kozhikode_logo.webp",
+      "slug": "iim-kozhikode"
+    },
+    {
+      "_id": "67e7b211c6e7ca6c6fb039ea",
+      "collegeName": "Bangalore University Online",
+      "collegeLocation": "Bengaluru, Karnataka",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/3746/bangalore_university_online_logo.webp",
+      "slug": "bangalore-university-online"
+    },
+    {
+      "_id": "67e7a003ab25ffbe361a816b",
+      "collegeName": "Vellore Institute of Technology Online Courses 2025",
+      "collegeLocation": "Vellore, Tamil Nadu",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/5640/vellore_institute_of_technology_online_courses_2025_logo.webp",
+      "slug": "vellore-institute-of-technology-online"
+    },
+    {
+      "_id": "67eb8fca04a7bac2908c7bf6",
+      "collegeName": "Indira Gandhi National Open University",
+      "collegeLocation": "New Delhi, Delhi ",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9730/indira_gandhi_national_open_university_logo.webp",
+      "slug": "ignou"
+    },
+    {
+      "_id": "67eb7f8b0df39edf55d67d91",
+      "collegeName": "Amity School of Distance Education",
+      "collegeLocation": "Noida, New Delhi",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8659/amity_school_of_distance_education_logo.webp",
+      "slug": "amity-school-of-distance-learning"
+    },
+    {
+      "_id": "67e7867f3c0f5118ce4449e6",
+      "collegeName": "ICFAI University Online Courses",
+      "collegeLocation": "Hyderabad, Telangana",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/3692/_icfai_university_online_courses__logo.webp",
+      "slug": "ifcai-university-online"
+    },
+    {
+      "_id": "67e79862ab25ffbe361a75af",
+      "collegeName": "Welingkar Education Online",
+      "collegeLocation": "Mumbai, Maharashtra ",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/1628/welingkar_education_online_logo.webp",
+      "slug": "welingkar-education-online"
+    },
+    {
+      "_id": "67e66f1ccf6a31da03ee8886",
+      "collegeName": "BIMTECH Online PGDM Courses & Admission 2025",
+      "collegeLocation": "Greater Noida, Uttar Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9330/bimtech_online_pgdm_courses_and_admission_2025_logo.webp",
+      "slug": "bimtech-online"
+    },
+    {
+      "_id": "67eb8964206f042f1cfc3eff",
+      "collegeName": "Sikkim Manipal University Distance Education",
+      "collegeLocation": "Gangtok, Sikkim",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/3187/sikkim_manipal_university_distance_education__logo.webp",
+      "slug": "sikkim-manipal-university-distance-education"
+    },
+    {
+      "_id": "67e7acbac6e7ca6c6fb032ce",
+      "collegeName": "KL University Online",
+      "collegeLocation": "Guntur, Andhra Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8517/kl_university_online_logo.webp",
+      "slug": "koneru-lakshmaiah-education-foundation-university-online-kl-university-online"
+    },
+    {
+      "_id": "67fcab80a70f35ff430172e1",
+      "collegeName": "Madras University Distance Education",
+      "collegeLocation": "Chennai, Tamil Nadu",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/3400/madras_university_distance_education_logo.webp",
+      "slug": "university-of-madras-institute-of-distance-education"
+    },
+    {
+      "_id": "67eccdba76a059652e6d253d",
+      "collegeName": "Punjab University Distance Education",
+      "collegeLocation": "Chandigarh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/6650/punjab_university_distance_education_logo.webp",
+      "slug": "punjab-university-distance-education"
+    },
+    {
+      "_id": "67ebc9b123279ee701afb2a3",
+      "collegeName": "GITAM University Distance Education",
+      "collegeLocation": "Visakhapatnam, Andhra Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9035/gitam_university_distance_education_logo.webp",
+      "slug": "gitam-university-distance-education"
+    },
+    {
+      "_id": "67fce9bf45e7bf121b10ccaa",
+      "collegeName": "University of Kerala – School of Distance Education",
+      "collegeLocation": "Thiruvananthapuram, Kerala",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/1748/university_of_kerala_-_school_of_distance_education_logo.webp",
+      "slug": "university-of-kerala-school-of-distance-education"
+    },
+    {
+      "_id": "67eba5be0db8e5b5bbb089fd",
+      "collegeName": "Dr. Babasaheb Ambedkar Open University Distance Education",
+      "collegeLocation": "Ahmedabad, Gujarat",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/2158/dr__babasaheb_ambedkar_open_university_distance_education_logo.webp",
+      "slug": "dr-babasaheb-ambedkar-open-university"
+    },
+    {
+      "_id": "67ebb7bc3bf2143ffc86b63e",
+      "collegeName": "University of Mysore Distance Education",
+      "collegeLocation": "Mysore, Karnataka",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9040/university_of_mysore_distance_education_logo.webp",
+      "slug": "university-of-mysore-distance-education"
+    },
+    {
+      "_id": "67ecd4cf5d039c51eace9933",
+      "collegeName": "Subharti University Distance Education",
+      "collegeLocation": " Meerut, Uttar Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/1253/subharti_university_distance_education_logo.webp",
+      "slug": "subharti-university-distance-education"
+    },
+    {
+      "_id": "67e7a68cc6e7ca6c6fb0221d",
+      "collegeName": "NDIM Institute Online",
+      "collegeLocation": "New Delhi, Delhi ",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/5421/ndim_institute_online_logo.webp",
+      "slug": "ndim-institute-online"
+    },
+    {
+      "_id": "67ebd7b225f77130daa8796b",
+      "collegeName": "Mumbai University Distance Education",
+      "collegeLocation": "Mumbai, Maharashtra",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/6171/mumbai_university_distance_education_logo.webp",
+      "slug": "mumbai-university-distance-education"
+    },
+    {
+      "_id": "67eb9a5a5b1d8cf31046e359",
+      "collegeName": "Netaji Subhas Open University Distance Education",
+      "collegeLocation": "Kolkata, West Bengal",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/1301/netaji_subhas_open_university_distance_education_logo.webp",
+      "slug": "netaji-subhas-open-university"
+    },
+    {
+      "_id": "67fcf829fa3b3e36f2a66074",
+      "collegeName": "Kuvempu University – Directorate of Distance Education",
+      "collegeLocation": "Shivamogga, Karnataka",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8191/_kuvempu_university_-_directorate_of_distance_education_logo.webp",
+      "slug": "kuvempu-university-directorate-of-distance-education"
+    },
+    {
+      "_id": "67fcce9128dde75f2b5c9ee7",
+      "collegeName": "Vardhman Mahaveer Open University",
+      "collegeLocation": "Kota, Rajasthan",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/2446/vardhman_mahaveer_open_university_logo.webp",
+      "slug": "vardhman-mahaveer-open-university-vmou"
+    },
+    {
+      "_id": "67fcc24aeffe494c181eb69f",
+      "collegeName": "Punjab Technical University Distance Education",
+      "collegeLocation": "Kapurthala, Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/3524/punjab_technical_university_distance_education_logo.webp",
+      "slug": "punjab-technical-university-ptu-distance-education"
+    },
+    {
+      "_id": "67fcba94c51c7a55c3b5820a",
+      "collegeName": "Bharathiar University Distance Education",
+      "collegeLocation": "Coimbatore, Tamil Nadu",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9893/bharathiar_university_distance_education_logo.webp",
+      "slug": "bharathiar-university-school-of-distance-education"
+    },
+    {
+      "_id": "67fcf920fa3b3e36f2a66cab",
+      "collegeName": "Swami Vivekanand Subharti University – Distance Education",
+      "collegeLocation": "Subhartipuram, Uttar Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8608/swami_vivekanand_subharti_university_-_distance_education_logo.webp",
+      "slug": "swami-vivekanand-subharti-university-distance-education"
+    },
+    {
+      "_id": "67ece055d35e64b798d28432",
+      "collegeName": "Anna University Distance Education – Courses, Fees & Admission 2025",
+      "collegeLocation": "Chennai, Tamil Nadu",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8881/anna_university_distance_education_-_courses__fees_and_admission_2025_logo.webp",
+      "slug": "anna-university-distance-education"
+    },
+    {
+      "_id": "67ebc01cbdd813beafcf0917",
+      "collegeName": "Periyar University Distance Education",
+      "collegeLocation": "Salem, Tamil Nadu,",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/6013/periyar_university_distance_education_logo.webp",
+      "slug": "periyar-university-distance-education"
+    },
+    {
+      "_id": "67ecda7feb23d67c1d661e95",
+      "collegeName": "University of Kashmir Distance Education",
+      "collegeLocation": "Srinagar, Jammu and Kashmir",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/6883/university_of_kashmir_distance_education_logo.webp",
+      "slug": "university-of-kashmir-distance-education"
+    },
+    {
+      "_id": "67fcf6dafa3b3e36f2a65468",
+      "collegeName": "Maharshi Dayanand University (MDU) – Directorate of Distance Education",
+      "collegeLocation": "Rohtak, Haryana",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/5162/maharshi_dayanand_university__mdu__-_directorate_of_distance_education_logo.webp",
+      "slug": "maharshi-dayanand-university-mdu-directorate-of-distance-education"
+    },
+    {
+      "_id": "67fcb2afd21bda2e7209a8fb",
+      "collegeName": "Alagappa University's Directorate of Distance Education",
+      "collegeLocation": "Karaikudi, Tamil Nadu",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9349/alagappa_university_s_directorate_of_distance_education_logo.webp",
+      "slug": "alagappa-universitys-directorate-of-distance-education"
+    },
+    {
+      "_id": "67fcca2d28dde75f2b5c8e51",
+      "collegeName": "Yashwantrao Chavan Maharashtra Open University (YCMOU)",
+      "collegeLocation": "Nashik, Maharashtra",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9280/yashwantrao_chavan_maharashtra_open_university__ycmou__logo.webp",
+      "slug": "yashwantrao-chavan-maharashtra-open-university-ycmou"
+    },
+    {
+      "_id": "67ff60a8836257e438aa7b7d",
+      "collegeName": "Bharath Institute of Higher Education and Research – Distance Learning",
+      "collegeLocation": " Chennai, Tamil Nadu",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/4352/bharath_institute_of_higher_education_and_research_-_distance_learning_logo.webp",
+      "slug": "bharath-institute-of-higher-education-and-research-distance-learning"
+    },
+    {
+      "_id": "67e7be3bc6e7ca6c6fb0533d",
+      "collegeName": "Datta Meghe Institute of Higher Education & Research Online Courses",
+      "collegeLocation": "Sawangi,  Maharashtra",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9513/_datta_meghe_institute_of_higher_education_and_research_online_courses_logo.webp",
+      "slug": "datta-meghe-institute-of-higher-education-and-research-online"
+    },
+    {
+      "_id": "67e7b98cc6e7ca6c6fb0495a",
+      "collegeName": "International University of Applied Sciences",
+      "collegeLocation": "Bad Honnef, Germany",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9042/international_university_of_applied_sciences_logo.webp",
+      "slug": "iu-international-university-of-applied-sciences-online"
+    },
+    {
+      "_id": "67eb93b504a7bac2908c7c85",
+      "collegeName": "School of Open Learning, University of Delhi (DU SOL)",
+      "collegeLocation": "New Delhi, Delhi",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/3304/du_sol_distance_education_courses__logo.webp",
+      "slug": "du-sol"
+    },
+    {
+      "_id": "67eb9fec4cfeec11d5546f8a",
+      "collegeName": "Chandigarh University Distance Education",
+      "collegeLocation": "Mohali, Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/5986/chandigarh_university_distance_education_logo.webp",
+      "slug": "chandigarh-university-distance"
+    },
+    {
+      "_id": "67fcf19cfa3b3e36f2a62ab3",
+      "collegeName": "Guru Jambheshwar University of Science and Technology – Directorate of Distance Education",
+      "collegeLocation": "Hisar, Haryana",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/2106/guru_jambheshwar_university_of_science_and_technology_-_directorate_of_distance_education_logo.webp",
+      "slug": "guru-jambheshwar-university-of-science-and-technology-directorate-of-distance-education"
+    },
+    {
+      "_id": "67ebde99b505b21a7bbbb58f",
+      "collegeName": "Kalyani University Distance Education",
+      "collegeLocation": "Kalyani, West Bengal",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/6711/kalyani_university_distance_education_logo.webp",
+      "slug": "kalyani-university-distance-education"
+    },
+    {
+      "_id": "67ecc81ad1dc12f1d711da04",
+      "collegeName": "Jammu University Distance Education",
+      "collegeLocation": "Jammu and Kashmir",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/5639/jammu_university_distance_education_logo_1763041473969.webp",
+      "slug": "jammu-university-distance-education"
+    },
+    {
+      "_id": "67ebe6924b28325e5361d27d",
+      "collegeName": "Jain University Distance Education",
+      "collegeLocation": "Bengaluru, Karnataka",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9489/jain_university_distance_education_logo.webp",
+      "slug": "jain-university-distance-education"
+    },
+    {
+      "_id": "67fce2abdc86d1d916d24916",
+      "collegeName": "Pt. Sundarlal Sharma Open University (PSSOU)",
+      "collegeLocation": " Bilaspur, Chhattisgarh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/4031/pt__sundarlal_sharma_open_university__pssou__logo.webp",
+      "slug": "pt-sundarlal-sharma-open-university-pssou"
+    },
+    {
+      "_id": "67ff85a26504daa5f412fc46",
+      "collegeName": "Venkateshwara Open University Distance Education",
+      "collegeLocation": "Papum Pare, Arunachal Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9667/venkateshwara_open_university_distance_education_logo.webp",
+      "slug": "venkateshwara-open-university"
+    },
+    {
+      "_id": "6800b6a5a52410c4bffa35cd",
+      "collegeName": "DAVV (Devi Ahilya Vishwavidyalaya) – Distance Education",
+      "collegeLocation": "Indore, Madhya Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/4205/davv__devi_ahilya_vishwavidyalaya__-_distance_education_logo.webp",
+      "slug": "davv-devi-ahilya-vishwavidyalaya-distance-education"
+    },
+    {
+      "_id": "67fcfb2ffa3b3e36f2a6856d",
+      "collegeName": "Jain University (Deemed-to-be) – Online & Distance Learning",
+      "collegeLocation": "Bengaluru, Karnataka",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/10000/jain.avif",
+      "slug": "jain-university-deemed-to-be-online-and-distance-learning"
+    },
+    {
+      "_id": "67fca27cb1579c27b3965e90",
+      "collegeName": "Symbiosis Centre for Distance Learning",
+      "collegeLocation": "Pune, Maharashtra",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/7102/symbiosis_centre_for_distance_learning_logo.webp",
+      "slug": "symbiosis-centre-for-distance-learning"
+    },
+    {
+      "_id": "6803340e1fdc78efce549bbb",
+      "collegeName": "Ganpat University – Distance Learning",
+      "collegeLocation": "Kherva, Gujarat ",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/6552/ganpat_university_-_distance_learning_logo.webp",
+      "slug": "ganpat-university-distance-learning"
+    },
+    {
+      "_id": "67ff71ba74779a803dc9459f",
+      "collegeName": "NIILM University – Distance Education",
+      "collegeLocation": "Kaithal, Haryana",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/3186/niilm_university_-_distance_education_logo.webp",
+      "slug": "niilm-university-distance-education"
+    },
+    {
+      "_id": "67fe1597fe1c0316ee293980",
+      "collegeName": "Mangalayatan University Distance and Online Program 2026",
+      "collegeLocation": "Aligarh, Uttar Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8609/_mangalayatan_university_-_distance_and_online_programs_2025_logo.webp",
+      "slug": "mangalayatan-university-distance-and-online-programs"
+    },
+    {
+      "_id": "67fcf543fa3b3e36f2a64869",
+      "collegeName": "Kakatiya University- School of Distance Learning and Continuing Education",
+      "collegeLocation": "Hanamkonda, Telangana",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/5298/kakatiya_university_-_school_of_distance_learning_and_continuing_education_logo.webp",
+      "slug": "kakatiya-university-sdlce-school-of-distance-learning-and-continuing-education"
+    },
+    {
+      "_id": "68034725fd80202f8b5761be",
+      "collegeName": "Gujarat Vidyapith – Distance Education",
+      "collegeLocation": "Ahmedabad , Gujarat ",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/5301/gujarat_vidyapith_-_distance_education_logo.webp",
+      "slug": "gujarat-vidyapith-distance-education"
+    },
+    {
+      "_id": "680356bf823fdda3e641d44d",
+      "collegeName": "HNBG University Distance Education",
+      "collegeLocation": "Naur, Uttarakhand",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/1258/hnbg_university_distance_education_logo.webp",
+      "slug": "hnbgu-hemvati-nandan-bahuguna-garhwal-university-distance-learning"
+    },
+    {
+      "_id": "691d6ff956d7d18572749101",
+      "collegeLocation": "Phagwara, Punjab ",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9885/lovely_professional_university__lpu__logo_1763539715683.webp",
+      "collegeName": "Lovely Professional University",
+      "slug": "lovely-professional-university-phagwara"
+    },
+    {
+      "_id": "68033cce211f73973e35b8bc",
+      "collegeName": "GNA University Phagwara",
+      "collegeLocation": "Phagwara, Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/1312/gna_university_distance_education_logo.webp",
+      "slug": "gna-university-distance-education"
+    },
+    {
+      "_id": "6800bdb6479a8ec3d4771d6a",
+      "collegeName": "Gandhi Institute of Technology and Management (GITAM) – Distance Learning",
+      "collegeLocation": "Visakhapatnam, Andhra Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/4037/gandhi_institute_of_technology_and_management__gitam__-_distance_learning_logo.webp",
+      "slug": "gandhi-institute-of-technology-and-management-gitam-distance-learning"
+    },
+    {
+      "_id": "6800983e5ccd4db9c82509c4",
+      "collegeName": "Apex University Distance Education",
+      "collegeLocation": "Jaipur, Rajasthan",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/3337/apex_university_distance_education_logo.webp",
+      "slug": "apex-university-distance-education"
+    },
+    {
+      "_id": "67e3c8ae32cd88a7b2d5c7c6",
+      "collegeName": "Amity University Online",
+      "collegeLocation": "Noida, Uttar Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/6812/amity_university_online_courses_and_admission_2025_logo.webp",
+      "slug": "amity-university-online"
+    },
+    {
+      "_id": "691dbb9519346a367772cd6e",
+      "collegeLocation": "Landran , Mohalli , Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/[object Promise]/cgc_landran_logo_1763556233276.webp",
+      "collegeName": "Chandigarh Group of Colleges Landran",
+      "slug": "cgc-landran"
+    },
+    {
+      "_id": "691da74e56d7d1857274af53",
+      "collegeLocation": "Jhanjeri , Mohalli , Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/3475/cgc_jhanjeri__logo_1763553564899.webp",
+      "collegeName": "CGC Jhanjeri (NAAC A+): Courses, Fees, Admission 2026",
+      "slug": "cgc-jhanjeri"
+    },
+    {
+      "_id": "6805f17d4ef234a0a7338e20",
+      "collegeName": "IASE Deemed University – Distance Education",
+      "collegeLocation": "Sardarshahr, Rajasthan",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/6891/iase_deemed_university_-_distance_education_logo_1764237864457.webp",
+      "slug": "iase-deemed-university-distance-education"
+    },
+    {
+      "_id": "67ff6a1264595ebd030ced31",
+      "collegeName": "Uttarakhand Open University",
+      "collegeLocation": "Haldwani, Uttarakhand",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/5686/uttarakhand_open_university_logo.webp",
+      "slug": "uttarakhand-open-university-uou"
+    },
+    {
+      "_id": "680a07bc9903b101a49b4730",
+      "collegeName": "Jaipur National University – Distance Education",
+      "collegeLocation": "Jagatpura, Jaipur",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/4391/jaipur_national_university_-_distance_education_logo.webp",
+      "slug": "jaipur-national-university-distance-education"
+    },
+    {
+      "_id": "6805f9f6711a47e8558350f4",
+      "collegeName": "Indira Gandhi National Tribal University",
+      "collegeLocation": "Amarkantak, Anuppur",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/7691/indira_gandhi_national_tribal_university_logo.webp",
+      "slug": "igntu-indira-gandhi-national-tribal-university-distance-education"
+    },
+    {
+      "_id": "67e3b025416f3aba8b936dbf",
+      "collegeName": "Mahe Manipal University Online",
+      "collegeLocation": "Bengaluru, Karnataka",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/5696/mahe_manipal_university_online_logo.webp",
+      "slug": "mahe-manipal-university-online"
+    },
+    {
+      "_id": "691e8bd856d7d18572751f20",
+      "collegeLocation": "Jaipur , Rajasthan",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/[object Promise]/amity_university_jaipur_-_1_logo_1763609530695.webp",
+      "collegeName": "Amity University Jaipur Courses, Fees, Admission 2026",
+      "slug": "amity-university-jaipur"
+    },
+    {
+      "_id": "691df0a156d7d1857274dd16",
+      "collegeLocation": "Lucknow . Uttar Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/6749/amity_university_lucknow_logo_1763571278211.webp",
+      "collegeName": "Amity University Lucknow",
+      "slug": "amity-university-lucknow"
+    },
+    {
+      "_id": "691dc5f156d7d1857274bcf1",
+      "collegeLocation": "Manesar , Gurugram",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/[object Promise]/amity_university_gurugram__manesar_logo_1763558881811.webp",
+      "collegeName": "Amity University Gurugram, Manesar",
+      "slug": "amity-university-gurugram-manesar"
+    },
+    {
+      "_id": "6800b09e1ca8110dec9eb456",
+      "collegeName": "Chaudhary Charan Singh University – Distance Learning",
+      "collegeLocation": "Meerut, Uttar Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9758/chaudhary_charan_singh_university_-_distance_learning_logo.webp",
+      "slug": "chaudhary-charan-singh-university-distance-learning"
+    },
+    {
+      "_id": "67fcfa1afa3b3e36f2a678fe",
+      "collegeName": "Datta Meghe Institute of Higher Education & Research – Distance Learning",
+      "collegeLocation": "Sawangi, Maharashtra",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9299/datta_meghe_institute_of_higher_education_and_research_-_distance_learning_logo.webp",
+      "slug": "datta-meghe-institute-of-higher-education-and-research-distance-learning"
+    },
+    {
+      "_id": "6800a17f76ee71da84f7fc5f",
+      "collegeName": "Annamalai University Distance Education Courses 2025",
+      "collegeLocation": "Cuddalore, Tamil Nadu",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/7445/annamalai_university_distance_education_courses_2025_logo.webp",
+      "slug": "annamalai-university-distance-education"
+    },
+    {
+      "_id": "6809fddf6b79d78058acb2d3",
+      "collegeName": "Jadavpur University's Distance Education",
+      "collegeLocation": " West Bengal, Kolkata",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9211/jadavpur_university_s_distance_education_logo.webp",
+      "slug": "jadavpur-universitys-distance-education"
+    },
+    {
+      "_id": "680a0d1b00077c3e8e9156e0",
+      "collegeName": "Nalanda Open University Distance Education",
+      "collegeLocation": "Patna, Bihar ",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/5545/nalanda_open_university_distance_education_logo.webp",
+      "slug": "nalanda-open-university"
+    },
+    {
+      "_id": "67fcf3a0fa3b3e36f2a63c86",
+      "collegeName": "Bharathidasan University Centre for Distance Education",
+      "collegeLocation": "Tiruchirappalli, Tamil Nadu",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8406/bharathidasan_university_centre_for_distance_education_logo.webp",
+      "slug": "bharathidasan-university-centre-for-distance-education"
+    },
+    {
+      "_id": "67fe3e50c2a511df63817a16",
+      "collegeName": "Mizoram University Distance Education",
+      "collegeLocation": "Aizawl, Mizoram",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9079/mizoram_university_distance_education_logo.webp",
+      "slug": "mizoram-university-distance-education"
+    },
+    {
+      "_id": "691d9d1656d7d1857274aafe",
+      "collegeLocation": "Chandigarh Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/[object Promise]/chandigarh_university_logo_1763548399931.webp",
+      "collegeName": "Chandigarh University: Courses, Fees, Admission 2026",
+      "slug": "chandigarh-university"
+    },
+    {
+      "_id": "691ec38956d7d185727551cb",
+      "collegeLocation": "Noida, Uttar Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/6052/galgotias_university_online_logo_1763973248639.webp",
+      "collegeName": "Galgotias University Online",
+      "slug": "galgotias-university-online"
+    },
+    {
+      "_id": "691dd4db19346a367772ddb6",
+      "collegeLocation": "Gwalior, Madhya Pradesh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/[object Promise]/amity_university__gwalior_logo_1763562677320.webp",
+      "collegeName": "Amity University Gwalior ",
+      "slug": "amity-university-gwalior"
+    },
+    {
+      "_id": "691ea99219346a367773435d",
+      "collegeLocation": "Mumbai , Maharashtra",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/[object Promise]/amity_university_mumbai_logo_1763617145659.webp",
+      "collegeName": "Amity University Mumbai Courses, Fees, Admission 2026",
+      "slug": "amity-university-mumbai"
+    },
+    {
+      "_id": "691e96f156d7d18572752557",
+      "collegeLocation": "Raipur , Chhattisgarh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/[object Promise]/amity_university_raipur__logo_1763612387821.webp",
+      "collegeName": "Amity University Raipur: Courses, Admission, and Fees for 2026",
+      "slug": "amity-university-raipur"
+    },
+    {
+      "_id": "691de03d19346a367772ea79",
+      "collegeLocation": "Bengaluru , Karnataka",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/[object Promise]/amity_university_bengaluru_logo_1763565602748.webp",
+      "collegeName": "Amity University Bengaluru",
+      "slug": "amity-university-bengaluru"
+    },
+    {
+      "_id": "694b862e826a60bd2833d95e",
+      "collegeLocation": "Patiala, Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/7685/punjabi-university-patiala-logo.webp",
+      "collegeName": "Punjabi University, Patiala",
+      "slug": "punjabi-university-patiala"
+    },
+    {
+      "_id": "694bd29f0115652615e4062c",
+      "collegeLocation": "Patiala, Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9147/thapar-institute-of-engineering-and-technology-patiala-logo.webp",
+      "collegeName": "Thapar Institute of Engineering and Technology - (Thapar University)",
+      "slug": "thapar-institute-of-engineering-and-technology-patiala"
+    },
+    {
+      "_id": "694e4203826a60bd2833f55c",
+      "collegeLocation": "Amritsar. Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/7792/iim-amritsar-indian-institute-of-management-logo.webp",
+      "collegeName": "IIM Amritsar-Indian Institute of Management",
+      "slug": "iim-amritsar"
+    },
+    {
+      "_id": "695120110115652615e43e84",
+      "collegeLocation": "Bathinda. Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/8924/central-university-of-punjab-bathinda-logo.webp",
+      "collegeName": "Central University of Punjab, Bathinda",
+      "slug": "central-university-of-punjab-bathinda"
+    },
+    {
+      "_id": "695247d1826a60bd2834130c",
+      "collegeLocation": "Amritsar, Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/1960/amritsar-group-of-colleges-logo.webp",
+      "collegeName": "Amritsar Group of Colleges ",
+      "slug": "amritsar-group-of-colleges"
+    },
+    {
+      "_id": "6953d832826a60bd2834689d",
+      "collegeLocation": "Rajpura, Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/4856/chitkara-university-rajpura-logo.webp",
+      "collegeName": "Chitkara University",
+      "slug": "chitkara-university-rajpura"
+    },
+    {
+      "_id": "6955643123847d0c903aac7e",
+      "collegeLocation": "Amritsar",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/5993/guru-nanak-dev-university-logo.webp",
+      "collegeName": "Guru Nanak Dev University",
+      "slug": "guru-nanak-dev-university-amritsar"
+    },
+    {
+      "_id": "6958a71d055a581b418e7c97",
+      "collegeLocation": "Chandigarh",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/9077/punjab-engineering-college-chandigarh-logo.webp",
+      "collegeName": "Punjab Engineering College Chandigarh",
+      "slug": "punjab-engineering-college-chandigarh"
+    },
+    {
+      "_id": "6953ee4fc5441739080d84e9",
+      "collegeLocation": "Mohali, Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/5532/rayat-bahra-university-logo.webp",
+      "collegeName": "Rayat Bahra University",
+      "slug": "rayat-bahra-university"
+    },
+    {
+      "_id": "6953c1c7c5441739080d83de",
+      "collegeLocation": "Ropar. Punjab",
+      "collegeLogo": "https://images.DegreeFYD.com/colleges/6447/iit-ropar-indian-institute-of-technology-bara-phool-logo.webp",
+      "collegeName": "IIT Ropar,Indian Institute of Technology, Bara Phool",
+      "slug": "iit-ropar-indian-institute-of-technology"
+    },
+    {
+      "_id": "696b6318c5347d645ac9da9f",
+      "collegeLocation": "Jalandhar, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/1002/d-a-v-college-jalandhar-logo.webp",
+      "collegeName": "DAV College Jalandhar",
+      "slug": "dav-college-jalandhar"
+    },
+    {
+      "_id": "696b45a6c60d32b46fa867bf",
+      "collegeLocation": "Ludhiana, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/8333/punjab-agricultural-university-ludhiana-logo.webp",
+      "collegeName": "Punjab Agricultural University Ludhiana",
+      "slug": "pau-ludhiana"
+    },
+    {
+      "_id": "696b33a6c5347d645ac9b6eb",
+      "collegeLocation": "Patiala, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/7730/gmc-patiala-logo.webp",
+      "collegeName": "Government Medical College, Patiala",
+      "slug": "gmc-patiala"
+    },
+    {
+      "_id": "696e0c28f70884062e25b661",
+      "collegeLocation": "Patiala, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/6131/rajiv-gandhi-national-university-of-law-logo.webp",
+      "collegeName": "Rajiv Gandhi National University of Law",
+      "slug": "rgnul-patiala"
+    },
+    {
+      "_id": "696b70fcc60d32b46fa89535",
+      "collegeLocation": "Jalandhar, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/7046/dr-b-r-ambedkar-national-institute-of-technology-jalandhar-logo.webp",
+      "collegeName": "Dr. B.R. Ambedkar National Institute of Technology Jalandhar",
+      "slug": "nit-jalandhar"
+    },
+    {
+      "_id": "696f8a1495e19b754ca2be20",
+      "collegeLocation": "Mohali, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/3661/amity-university-mohali-logo.webp",
+      "collegeName": "Amity University Mohali ",
+      "slug": "amity-university-mohali"
+    },
+    {
+      "_id": "696e9516f70884062e2610cb",
+      "collegeLocation": "Ludhiana, Punjab, ",
+      "collegeLogo": "https://images.degreefyd.com/colleges/5118/lcet-ludhiana-logo.webp",
+      "collegeName": "LCET Ludhiana",
+      "slug": "lcet-ludhiana"
+    },
+    {
+      "_id": "6972095a3c0a873aa8676db8",
+      "collegeLocation": "Faridkot,Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/6414/baba-farid-university-of-health-sciences-logo.webp",
+      "collegeName": "Baba Farid University of Health Sciences",
+      "slug": "baba-farid-university-of-health-sciences"
+    },
+    {
+      "_id": "696e1748f70884062e25c056",
+      "collegeLocation": "Ludhiana, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/5446/pcte-group-of-institutes-logo.webp",
+      "collegeName": "PCTE Group of Institutes",
+      "slug": "pcte-group-of-institutes-ludhiana"
+    },
+    {
+      "_id": "6970f56d8c2126f06cbf4cf2",
+      "collegeLocation": "Ludhiana, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/8353/ludhiana-group-of-colleges-logo.webp",
+      "collegeName": "Ludhiana Group of Colleges",
+      "slug": "ludhiana-group-of-colleges"
+    },
+    {
+      "_id": "6971356d3c0a873aa86672ab",
+      "collegeLocation": "Chandigarh, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/2850/aryans-group-of-colleges-logo.webp",
+      "collegeName": "Aryans Group of Colleges",
+      "slug": "aryans-group-of-colleges"
+    },
+    {
+      "_id": "69737d861a312d1ec2a21a83",
+      "collegeLocation": "Chandigarh",
+      "collegeLogo": "https://images.degreefyd.com/colleges/4805/guru-gobind-singh-college-for-women-logo.webp",
+      "collegeName": "Guru Gobind Singh College for Women",
+      "slug": "guru-gobind-singh-college-for-women"
+    },
+    {
+      "_id": "696b6d78c5347d645ac9e716",
+      "collegeLocation": "Mohali, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/6302/niper-mohali-logo.webp",
+      "collegeName": "NIPER Mohali",
+      "slug": "niper-mohali"
+    },
+    {
+      "_id": "6971c5d63c0a873aa866fb2c",
+      "collegeLocation": "Mohali, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/9111/army-institute-of-law-logo.webp",
+      "collegeName": "Army Institute of Law",
+      "slug": "army-institute-of-law"
+    },
+    {
+      "_id": "6971abf43c0a873aa866d041",
+      "collegeLocation": "Ludhiana",
+      "collegeLogo": "https://images.degreefyd.com/colleges/8792/career-transformation-university-logo.webp",
+      "collegeName": "Career Transformation University",
+      "slug": "ct-university-ludhiana"
+    },
+    {
+      "_id": "69788fe93244625159767ecf",
+      "collegeLocation": "Barnala,Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/6339/kings-group-of-institutions-logo.webp",
+      "collegeName": "Kings Group of Institutions ",
+      "slug": "kings-group-of-institutions"
+    },
+    {
+      "_id": "6978a91e6ac54b097a7614eb",
+      "collegeLocation": "Lalru,Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/4443/universal-group-of-institutions-lalru-logo.webp",
+      "collegeName": "Universal Group of Institutions Lalru",
+      "slug": "universal-group-of-institutions-lalru"
+    },
+    {
+      "_id": "6979055e6ac54b097a76dc25",
+      "collegeLocation": "Amritsar, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/6538/khalsa-college-amritsar-logo.webp",
+      "collegeName": "Khalsa College Amritsar",
+      "slug": "khalsa-college-amritsar"
+    },
+    {
+      "_id": "6979ae9332446251597889ef",
+      "collegeLocation": "Manawala, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/3420/sri-sai-group-of-institutes-amritsar-logo.webp",
+      "collegeName": "Sri Sai Group Of Institutes Amritsar ",
+      "slug": "sri-sai-group-of-institutes-amritsar"
+    },
+    {
+      "_id": "697af19732446251597afea3",
+      "collegeLocation": "Ropar, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/5708/lamrin-tech-skills-university-logo.webp",
+      "collegeName": "Lamrin Tech Skills University",
+      "slug": "lamrin-tech-skills-university"
+    },
+    {
+      "_id": "697a633e6ac54b097a799ff5",
+      "collegeLocation": "Chandigarh, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/6486/panjab-university-logo.webp",
+      "collegeName": "Panjab University ",
+      "slug": "panjab-university"
+    },
+    {
+      "_id": "697b03b16ac54b097a7af5c1",
+      "collegeLocation": "Chandigarh, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/7731/gian-jyoti-group-of-institutions-logo.webp",
+      "collegeName": "Gian Jyoti Group of Institutions",
+      "slug": "gian-jyoti-group-of-institutions"
+    },
+    {
+      "_id": "697b25386ac54b097a7b81ec",
+      "collegeLocation": "Patiala,Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/7714/government-medical-college-gmc-patiala-logo.webp",
+      "collegeName": "Government Medical College(GMC), Patiala",
+      "slug": "government-medical-collegegmc-patiala"
+    },
+    {
+      "_id": "697b2b3c32446251597bf9b6",
+      "collegeLocation": "Ludhiana, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/2730/gadvasu-guru-angad-dev-veterinary-and-animal-sciences-university-logo.webp",
+      "collegeName": "GADVASU (Guru Angad Dev Veterinary and Animal Sciences University)",
+      "slug": "gadvasu-guru-angad-dev-veterinary-and-animal-sciences-university"
+    },
+    {
+      "_id": "697bb50c32446251597da7fd",
+      "collegeLocation": "Bathinda, Punjab, India",
+      "collegeLogo": "https://images.degreefyd.com/colleges/3685/adesh-university-logo.webp",
+      "collegeName": "Adesh University ",
+      "slug": "adesh-university"
+    },
+    {
+      "_id": "697f82d23244625159852737",
+      "collegeLocation": "Ludhiana, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/7789/gulzar-group-of-institutions-logo.webp",
+      "collegeName": "Gulzar Group of Institutions",
+      "slug": "gulzar-group-of-institutions"
+    },
+    {
+      "_id": "697ba44e6ac54b097a7d4f77",
+      "collegeLocation": "Chunni Kalan",
+      "collegeLogo": "https://images.degreefyd.com/colleges/1834/punjab-group-of-colleges-logo.webp",
+      "collegeName": "Punjab Group of Colleges Fatehgarh Sahib",
+      "slug": "punjab-group-of-colleges"
+    },
+    {
+      "_id": "697b126d6ac54b097a7b3ed7",
+      "collegeLocation": "Jalandhar, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/3353/dayanand-anglo-vedic-institute-of-engineering-and-technology-daviet-jalandhar-logo.webp",
+      "collegeName": "Dayanand Anglo Vedic Institute of Engineering and Technology (DAVIET), Jalandhar ",
+      "slug": "dayanand-anglo-vedic-institute-of-engineering-and-technologydaviet-jalandhar"
+    },
+    {
+      "_id": "697ba43e6ac54b097a7d4f3e",
+      "collegeLocation": "Mohali, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/8473/plaksha-university-logo.webp",
+      "collegeName": "Plaksha University",
+      "slug": "plaksha-university"
+    },
+    {
+      "_id": "697bac3b6ac54b097a7d5916",
+      "collegeLocation": "Mandi Gobindgarh, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/3461/desh-bhagat-university-logo.webp",
+      "collegeName": "Desh Bhagat University ",
+      "slug": "desh-bhagat-university"
+    },
+    {
+      "_id": "697c55b332446251597eaa07",
+      "collegeLocation": "Jalandhar",
+      "collegeLogo": "https://images.degreefyd.com/colleges/8506/banarsi-dass-arya-college-logo.webp",
+      "collegeName": "Banarsi Dass Arya College",
+      "slug": "banarsi-dass-arya-college"
+    },
+    {
+      "_id": "697caf1b32446251597f71f9",
+      "collegeLocation": "Bathinda, Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/1968/akal-university-bathinda-logo.webp",
+      "collegeName": "Akal University Bathinda",
+      "slug": "akal-university-bathinda"
+    },
+    {
+      "_id": "6981ad8e6ac54b097a895a97",
+      "collegeLocation": "Jalandhar,Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/9485/dav-university-jalandhar-logo.webp",
+      "collegeName": "DAV University, Jalandhar",
+      "slug": "dav-university-jalandhar"
+    },
+    {
+      "_id": "697b8fc56ac54b097a7d41b0",
+      "collegeLocation": "Bathinda,Punjab",
+      "collegeLogo": "https://images.degreefyd.com/colleges/7814/guru-kashi-university-logo.webp",
+      "collegeName": "Guru Kashi University ",
+      "slug": "guru-kashi-university"
+    },
+    {
+      "_id": "6981b4853244625159894e15",
+      "collegeLocation": "Prayagraj, Uttar Pradesh, India",
+      "collegeLogo": "https://images.degreefyd.com/colleges/2292/sam-higginbottom-university-of-agriculture-technology-and-sciences-logo.webp",
+      "collegeName": "Sam Higginbottom University of Agriculture, Technology and Sciences",
+      "slug": "sam-higginbottom-university-of-agriculture-technology-and-sciences"
+    },
+    {
+      "_id": "6981a1876ac54b097a893a3c",
+      "collegeLocation": "Jaipur, Rajasthan, India.",
+      "collegeLogo": "https://images.degreefyd.com/colleges/8531/jaipur-engineering-college-and-research-centre-university-logo.webp",
+      "collegeName": "JECRC University- Jaipur",
+      "slug": "jecrc-university-jaipur"
+    }
+  ]
+}
