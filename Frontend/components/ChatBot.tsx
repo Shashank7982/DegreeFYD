@@ -30,7 +30,7 @@ interface HistoryTurn {
 
 // â”€â”€ Constants â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
-const API_URL = "http://localhost:8000/chat";
+const API_URL = process.env.NEXT_PUBLIC_CHATBOT_API_URL || "http://localhost:8000/chat";
 
 // Category cards shown on the home screen
 const CATEGORIES = [
