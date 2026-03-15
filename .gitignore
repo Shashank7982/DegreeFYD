@@ -35,3 +35,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+data/chroma_db/
+*.sqlite3
+__pycache__/
+*.pyc
+.env
+.env.local

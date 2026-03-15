@@ -1,0 +1,19 @@
+{
+  "name": "degreefyd",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "Frontend",
+    "Backend"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev --workspace=Frontend\" \"npm run dev --workspace=backend\"",
+    "install:all": "npm install",
+    "start:frontend": "npm run start --workspace=Frontend",
+    "start:backend": "npm run start --workspace=backend",
+    "start:all": "npm run start:frontend & npm run start:backend"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

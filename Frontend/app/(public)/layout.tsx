@@ -1,4 +1,5 @@
 import { PublicNavbar } from "@/components/public-navbar"
+import ChatBot from "@/components/ChatBot"
 
 export default function PublicLayout({
   children,
@@ -12,6 +13,7 @@ export default function PublicLayout({
 
       <PublicNavbar />
       <main className="relative z-10 flex-1">{children}</main>
+      <ChatBot />
     </div>
   )
 }
